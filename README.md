@@ -1,5 +1,5 @@
 
-# README - Sistema de Cadastro de Usuário
+Sistema de Cadastro de Usuário
 
 ![Python Version](https://img.shields.io/badge/python-3.x-blue.svg)
 ![Status](https://img.shields.io/badge/status-Completed-green.svg)
